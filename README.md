@@ -1,0 +1,2 @@
+# Twitter-Sentiment-Analysis-in-Python
+Using a English language tweets data set, in which the tweets have been labelled with binary sentiments (positive or negative) and also with their dialects (African American English (AAE) or Standard American Engish (SAE) ), derived from the resource published in Blodgett et al. (2016), to investigate the biases arising in different Machine Learning algorithms, and attempt to mitigate it using several strategies.
